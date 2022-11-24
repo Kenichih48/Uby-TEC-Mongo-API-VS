@@ -5,6 +5,9 @@ using MongoDB.Bson;
 
 namespace MongoExample.Services;
 
+/// <summary>
+/// Prepara los procesos asincronicos a la hora de correr los metodos del controller
+/// </summary>
 public class MongoDBService {
     private readonly IMongoCollection<Feedback> _feedbackCollection;
 

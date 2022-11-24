@@ -1,6 +1,7 @@
 using MongoExample.Models;
 using MongoExample.Services;
 
+/// Se preparan los constructores
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDB"));

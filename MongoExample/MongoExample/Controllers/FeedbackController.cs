@@ -5,6 +5,9 @@ using MongoExample.Models;
 
 namespace MongoExample.Controllers;
 
+/// <summary>
+/// Se detallans los 4 Tasks presntes en la API, el GET, POST, ADD y DELETE
+/// </summary>
 [Controller]
 [Route("api/[controller]")]
 

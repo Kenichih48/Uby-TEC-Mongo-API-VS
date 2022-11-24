@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kUKOeVLnJAdZcGk8m2Ob6LBb5m110l4JsnKfw7IBoFozext5vYIm8YxCmOHgbKmOYR1EyhUPdi7AbhSn29yl9g==",
+  "dgSpecHash": "DNUe1//ay4YUrC8WkDj7BwZZ3cNvKVN6G+wfRjinGFpca1EAWqRstKp6n7Q/kqwFPTP1fsQKs1nWAwhhOPACMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ABCDE\\Documents\\Bases de Datos\\Proyecto\\MongoExample\\MongoExample\\MongoExample.csproj",
+  "projectFilePath": "C:\\Users\\ABCDE\\Documents\\GitHub\\UbyTEC-Mongo-API\\Uby-TEC-Mongo-API-VS\\Uby-TEC-Mongo-API-VS\\MongoExample\\MongoExample\\MongoExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ABCDE\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\ABCDE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

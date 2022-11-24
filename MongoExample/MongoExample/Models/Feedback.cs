@@ -4,6 +4,9 @@ using System.Text.Json.Serialization;
 
 namespace MongoExample.Models;
 
+/// <summary>
+/// Se preparan los espacios para guardar datos, en este caso strings, en el API y MongoDB
+/// </summary>
 public class Feedback {
 
     [BsonId]

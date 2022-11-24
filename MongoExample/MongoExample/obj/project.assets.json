@@ -890,11 +890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ABCDE\\Documents\\Bases de Datos\\Proyecto\\MongoExample\\MongoExample\\MongoExample.csproj",
+      "projectUniqueName": "C:\\Users\\ABCDE\\Documents\\GitHub\\UbyTEC-Mongo-API\\Uby-TEC-Mongo-API-VS\\Uby-TEC-Mongo-API-VS\\MongoExample\\MongoExample\\MongoExample.csproj",
       "projectName": "MongoExample",
-      "projectPath": "C:\\Users\\ABCDE\\Documents\\Bases de Datos\\Proyecto\\MongoExample\\MongoExample\\MongoExample.csproj",
+      "projectPath": "C:\\Users\\ABCDE\\Documents\\GitHub\\UbyTEC-Mongo-API\\Uby-TEC-Mongo-API-VS\\Uby-TEC-Mongo-API-VS\\MongoExample\\MongoExample\\MongoExample.csproj",
       "packagesPath": "C:\\Users\\ABCDE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ABCDE\\Documents\\Bases de Datos\\Proyecto\\MongoExample\\MongoExample\\obj\\",
+      "outputPath": "C:\\Users\\ABCDE\\Documents\\GitHub\\UbyTEC-Mongo-API\\Uby-TEC-Mongo-API-VS\\Uby-TEC-Mongo-API-VS\\MongoExample\\MongoExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
